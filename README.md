@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rushisreallyhere/rushisreallyhere/blob/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/rushisreallyhere/rushisreallyhere/blob/main/regulus-corneas.gif" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm яυѕн</h1>
@@ -37,5 +37,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/rushisreallyhere/rushisreallyhere/blob/main/footer.png" alt="Footer" width="100%" />
+  <img src="https://github.com/rushisreallyhere/rushisreallyhere/blob/main/reinhard-van-astrea-re-zero.gif" alt="Footer" width="100%" />
 </p>
