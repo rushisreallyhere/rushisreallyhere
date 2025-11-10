@@ -35,7 +35,7 @@ I love working on projects that push me to think differently and improve my skil
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="[https://img.shields.io/badge/SQlite?style=for-the-badge&logo=githubactions&logoColor=white](https://img.shields.io/badge/SQLite-4169E1?logo=sqlite&logoColor=white&style=for-the-badge)" />
+  <img src="https://img.shields.io/badge/SQLite-4169E1?logo=sqlite&logoColor=fff&style=for-the-badge />
 </p>
 
 ---
