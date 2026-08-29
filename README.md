@@ -40,16 +40,6 @@ I love working on projects that push me to think differently and improve my skil
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://discord.com/users/1019922790285070427">
-    <img src="https://img.shields.io/badge/Discord-1019922790285070427-7289DA?style=for-the-badge&logo=discord" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://github.com/rushisreallyhere/rushisreallyhere/blob/main/blob/main/reinhard-van-astrea-re-zero.gif" alt="Footer" width="100%" />
 </p>
